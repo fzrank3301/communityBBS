@@ -48,7 +48,7 @@ public class registerController {
 
         model.addAttribute("hassuccess",totalsuccess);
 
-        return "rediecrt:/";
+        return "index";
 
     }
 
